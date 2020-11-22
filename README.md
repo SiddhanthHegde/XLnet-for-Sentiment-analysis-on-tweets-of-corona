@@ -8,3 +8,4 @@ If you take Crocin thrice a day you are safe. -  Fake
 Wearing mask can protect you from the virus. - Real
 
 XLnet performs pretty well on this dataset and gets an f1-score of about 0.97
+This code uses transformers from the hugging face and does not use pytorch transformers
